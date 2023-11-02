@@ -1,0 +1,30 @@
+body{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  height: 150px;
+}
+
+footer {
+  text-align: center;
+  font-size: medium;
+}
+
+p a {
+  text-decoration: none;
+  text-align: center;
+}
+
+address {
+  font-size: large;
+}

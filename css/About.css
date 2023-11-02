@@ -1,0 +1,29 @@
+body{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+}
+
+p, a {
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
+}
+
+footer {
+  color: black;
+  height: 50px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: medium;
+}
+
+img {
+  float: left;
+  padding-left: 500px;
+}
+
+article {
+  font-size: medium;
+}
